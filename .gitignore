@@ -6,6 +6,7 @@ __pycache__/
 results/
 saved_models/
 data/
+report.tex
 
 .DS_Store
 Thumbs.db
